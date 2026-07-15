@@ -418,15 +418,15 @@
   border: none;
   color: #d27f07;
   cursor: pointer;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .btn-remove-ingredient {
   background: none;
   border: none;
-  color: #dc2626;
+  color: #ff0000;
   cursor: pointer;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .modal-buttons {

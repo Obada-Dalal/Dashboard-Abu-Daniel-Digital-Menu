@@ -16,6 +16,7 @@ body {
   --background: #ffffff; /* أبيض */
   --text-dark: #1f2937; /* رمادي غامق */
   --text-light: #ffffff; /* أبيض */
+  --bg-login: #f97316;
 
   /* ===== الظلال ===== */
   --shadow-sm: 0 2px 8px rgba(210, 127, 7, 0.15);

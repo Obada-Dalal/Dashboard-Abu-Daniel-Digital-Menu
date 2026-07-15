@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #ffffff;
+  background: #fbf2cd;
   position: relative;
   overflow: hidden;
   padding: 20px;
@@ -91,7 +91,7 @@
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: #d27f07;
+  background: var(--bg-login);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -177,7 +177,7 @@
   right: 16px;
   top: 50%;
   transform: translateY(-50%);
-  color: #676b6a;
+  color: var(--bg-login);
   font-size: 1.1rem;
   z-index: 1;
   transition: color 0.3s;
@@ -223,7 +223,7 @@
   top: 50%;
   transform: translateY(-50%);
   cursor: pointer;
-  color: #676b6a;
+  color: var(--bg-login);
   font-size: 1.1rem;
   transition: color 0.3s;
   z-index: 1;
@@ -237,7 +237,7 @@
 .login-btn {
   width: 100%;
   padding: 16px;
-  background: #d27f07;
+  background: var(--bg-login);
   color: #ffffff;
   border: none;
   border-radius: 14px;
